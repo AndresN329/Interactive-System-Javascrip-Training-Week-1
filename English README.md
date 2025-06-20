@@ -1,15 +1,15 @@
 # Interactive Messaging System
 
-## 💡 Description
+##  Description
 
 This project is part of a **basic JavaScript practical workshop** focused on developing an interactive system that allows the user to enter their name and age and receive personalized messages based on their input.  
 The system also validates errors and considers special cases like negative ages or values over 100, all presented in a modern and visually centered interface.
 
-## 🎯 Training Objective
+##  Training Objective
 
 Implement a functional JavaScript program that **interacts with the user**, **validates input**, and **displays dynamic responses** using fundamental features of the language.
 
-## 🚀 Main Features
+##  Main Features
 
 - Requests the user's **name** and **age** using `prompt()`.
 - Validates that the entered age is a number using `isNaN()` and shows an error using `console.error()` if it's not.
@@ -21,7 +21,7 @@ Implement a functional JavaScript program that **interacts with the user**, **va
 - HTML content is centered on screen with a modern styled interface using CSS.
 - Includes a visual link to the GitHub project using FontAwesome icons.
 
-## 🧠 Concepts Applied
+##  Concepts Applied
 
 - Variable declaration using `let`
 - Data type conversion using `parseInt`
@@ -35,14 +35,14 @@ Implement a functional JavaScript program that **interacts with the user**, **va
 - JavaScript syntax best practices
 - Modern CSS styling (flexbox, shadows, transitions, gradients)
 
-## 🛠️ Main File
+##  Main File
 
 The code is located in the following file:
 
 
 It can be opened directly in any web browser.
 
-## 📋 Testing
+##  Testing
 
 The following test cases were performed:
 
@@ -54,18 +54,18 @@ The following test cases were performed:
 | Name: Pedro<br>Age: 105 | Shows "Are you still alive?" message |
 | Age: non-numeric (e.g. "text", "123abc") | Shows error in console |
 
-## 📎 How to Use
+##  How to Use
 
 1. Download or clone this repository.
 2. Open the `sistema_interactivo.html` file in your browser.
 3. Enter your name and age when prompted.
 4. View the resulting messages or check the browser console for errors.
 
-## 📦 Submission
+##  Submission
 
 This file should be submitted as a `.zip` or uploaded to GitHub and then submitted through Moodle before the deadline.
 
 ---
 
 **Author:** AndresN329  
-**Repository:** [GitHub - Training](https://github.com/AndresN329/Training)
+**Spanish Repository:** [GitHub - Training]([https://github.com/AndresN329/Training](https://github.com/AndresN329/Interactive-System-Javascrip-Training-Week-1/blob/main/README.md))
