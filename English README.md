@@ -43,7 +43,7 @@ The code is located in the following file:
 
 It can be opened directly in any web browser.
 
-## 📋 Testing
+##  Testing
 
 The following test cases were performed:
 
@@ -55,14 +55,14 @@ The following test cases were performed:
 | Name: Pedro<br>Age: 105 | Shows "Are you still alive?" message |
 | Age: non-numeric (e.g. "text", "123abc") | Shows error in console |
 
-## 📎 How to Use
+##  How to Use
 
 1. Download or clone this repository.
 2. Open the `sistema_interactivo.html` file in your browser.
 3. Enter your name and age when prompted.
 4. View the resulting messages or check the browser console for errors.
 
-## 📦 Submission
+##  Submission
 
 This file should be submitted as a `.zip` or uploaded to GitHub and then submitted through Moodle before the deadline.
 
